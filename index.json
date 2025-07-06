@@ -1,255 +1,221 @@
-[
-    {
-      "name": "Bad Apple",
-      "artist": "nomico",
-      "source": "host",
-      "url": "https://api.pillowcases.top/api/download/906e3be3e3533b0f9420c68164ad67fb",
-      "songs": [
-        177013
-    ]
+{
+    "manifest": 1,
+    "name": "EESports's NONGs",
+    "id": "eesports-nong",
+    "description": "EESports's NONGs",
+    "lastUpdate": 1751833862,
+    "links": {
+        "discord": "https://discord.gg/skibidi"
     },
-    {
-      "name": "Paradise ~ Deep Mountain",
-      "artist": "ZUN",
-      "source": "host",
-      "url": "https://api.pillowcases.top/api/download/e3079a23bb0a74fec6f01c516f005854",
-      "songs": [
-        177014
-    ]
+    "features": {
+        "submit": {
+            "supportedSongTypes": ["hosted"],
+            "preSubmitMessage": "I will probably not add your song but you can try",
+            "requestParams": {
+                "url": "https://github.com/EESports7/Personal-GD-NONGS/issues/new",
+                "params": true
+            }
+        }
     },
-    {
-      "name": "Roundtable Rival",
-      "artist": "Lindsey Stirling",
-      "source": "host",
-      "url": "https://api.pillowcases.top/api/download/4ecfee5c4c7b5bd85a3e7f00edae946c",
-      "songs": [
-        177015
-    ]
-    },
-    {
-      "name": "My sister is her - ! ! ! !",
-      "artist": "otokaz",
-      "source": "host",
-      "url": "https://api.pillowcases.top/api/download/eb21fdc65e4f332682a63eeb6885b5bf",
-      "songs": [
-        177016
-    ]
-    },
-    {
-      "name": "Into the night",
-      "artist": "maritumix",
-      "source": "host",
-      "url": "https://api.pillowcases.top/api/download/f36c77c5ebe5db8c65834554f8075131",
-      "songs": [
-        177017
-    ]
-    },
-    {
-      "name": "Catadioptric",
-      "artist": "Jerico",
-      "source": "host",
-      "url": "https://api.pillowcases.top/api/download/f36c77c5ebe5db8c65834554f8075131",
-      "songs": [
-        177018
-    ]
-    },
-    {
-      "name": "Brass Mood",
-      "artist": "MCE Music",
-      "source": "host",
-      "url": "https://api.pillowcases.top/api/download/566a759646d4390e5cc5a9f698c5be15",
-      "songs": [
-        177019
-    ]
-    },
-    {
-      "name": "Rush E",
-      "artist": "Sheet Music Boss",
-      "source": "host",
-      "url": "https://api.pillowcases.top/api/download/fae664ab72c144fe01f5fbad32d96fb3",
-      "songs": [
-        177020
-    ]
-    },
-    {
-      "name": "Outstanding Orchestra",
-      "artist": "MCE Music",
-      "source": "host",
-      "url": "https://api.pillowcases.top/api/download/13bc81b0711397c80d8474cc8487cf06",
-      "songs": [
-        177021
-    ]
-    },
-    {
-      "name": "Who Killed U.N.Owen",
-      "artist": "Liz Triangle",
-      "source": "host",
-      "url": "https://api.pillowcases.top/api/download/f11deef5b94ac238b95d0c38bf1edc37",
-      "songs": [
-        177022
-    ]
-    },
-    {
-      "name": "Love! Snow! Really Magic",
-      "artist": "Mitchie M",
-      "source": "host",
-      "url": "https://api.pillowcases.top/api/download/ee4b39e68357519758f513fed6efe16f",
-      "songs": [
-        177023
-    ]
-    },
-    {
-      "name": "Who Killed U.N.Owen (Instrumental)",
-      "artist": "Liz Triangle",
-      "source": "host",
-      "url": "https://api.pillowcases.top/api/download/45cb82eab7371e2ac5b8bb4e29b93914",
-      "songs": [
-        177024
-    ]
-    },
-    {
-      "name": "We Don't Talk About Bruno",
-      "artist": "Carolina Gaitan",
-      "source": "host",
-      "url": "https://api.pillowcases.top/api/download/2e8e20e8c39919987cd9fddb40d21a63",
-      "songs": [
-        177025
-    ]
-    },
-    {
-      "name": "Gravity Falls Main Title Theme",
-      "artist": "Brad Breeck",
-      "source": "host",
-      "url": "https://api.pillowcases.top/api/download/7eb3c1f67fe3b6f4689df365fc832d2d",
-      "songs": [
-        177026
-    ]
-    },
-    {
-      "name": "Tomboyish Girl in Love",
-      "artist": "ZUN",
-      "source": "host",
-      "url": "https://api.pillowcases.top/api/download/301ce3d6f98934a2cd73b03a100a5a6d",
-      "songs": [
-        177027
-    ]
-    },
-    {
-      "name": "INTERNET SURVIVOR",
-      "artist": "COOL&CREATE",
-      "source": "host",
-      "url": "https://api.pillowcases.top/api/download/9a07f4c8f237c994ea25acdfcf6b8322",
-      "songs": [
-        177028
-    ]
-    },
-    {
-      "name": "All The Things She Said",
-      "artist": "t.A.T.u",
-      "source": "host",
-      "url": "https://api.pillowcases.top/api/download/4f1a8ed4fdad8825e2afc741a5d77a02",
-      "songs": [
-        177029
-    ]
-    },
-    {
-      "name": "Moonlight shines",
-      "artist": "FELT",
-      "source": "host",
-      "url": "https://api.pillowcases.top/api/download/13bf408adbb3d0982cbf77c9ed23f1a4",
-      "songs": [
-        177030
-    ]
-    },
-    {
-      "name": "I Swallowed Shampoo",
-      "artist": "Soupy Garbage Juice",
-      "source": "host",
-      "url": "https://api.pillowcases.top/api/download/c9eb62a0dd1a1aa767e6f73d09ab15a6",
-      "songs": [
-        177031
-    ]
-    },
-    {
-      "name": "Demons",
-      "artist": "Imagine Dragons",
-      "source": "host",
-      "url": "https://api.pillowcases.top/api/download/2fc3b1833eaff5fcdb0ce3b019c2ca08",
-      "songs": [
-        177034
-    ]
-    },
-    {
-      "name": "Joe",
-      "artist": "AJR",
-      "source": "host",
-      "url": "https://api.pillowcases.top/api/download/5fa8b1bed0468a2e3c77aaa84031c34e",
-      "songs": [
-        177035
-    ]
-    },
-    {
-      "name": "River flows in you",
-      "artist": "Skullee",
-      "source": "host",
-      "url": "https://api.pillowcases.top/api/download/4660e113f95de9b2334084dad6f64966",
-      "songs": [
-        177036
-    ]
-    },
-    {
-      "name": "Whatever It Takes",
-      "artist": "Imagine Dragons",
-      "source": "host",
-      "url": "https://api.pillowcases.top/api/download/638d2ec950c34d327803bf4f627e3b88",
-      "songs": [
-        177037
-    ]
-    },
-    {
-      "name": "Counting Stars",
-      "artist": "OneRepublic",
-      "source": "host",
-      "url": "https://api.pillowcases.top/api/download/e92ae1f39e93f5471067069e6e7ec6cb",
-      "songs": [
-        177038
-    ]
-    },
-    {
-      "name": "Hymn for the Weekend",
-      "artist": "Coldplay",
-      "source": "host",
-      "url": "https://api.pillowcases.top/api/download/69f2b83e3b73fdc451f6327b80bec80e",
-      "songs": [
-        177039
-    ]
-    },
-    {
-      "name": "dance in crazynight",
-      "artist": "maritumix",
-      "source": "host",
-      "url": "https://api.pillowcases.top/api/download/b63beba091b4a5bf2d2518b996cac261",
-      "songs": [
-        177040
-    ]
-    },
-    {
-      "name": "Bad Liar",
-      "artist": "Imagine Dragons",
-      "source": "host",
-      "url": "https://api.pillowcases.top/api/download/9293117174a494cf4d265c336b514527",
-      "songs": [
-        177041
-    ]
-    },
-    {
-      "name": "Machine Love",
-      "artist": "Jamie Paige",
-      "source": "host",
-      "url": "https://api.pillowcases.top/api/download/d1479ca5e3be96860603ace88f09c834",
-      "songs": [
-        177042
-    ]
-    }
+    "nongs": {
+        "hosted": {
+            "e4bffd07-ad8d-5906-a444-c77c7b9ff580": {
+              "name": "Bad Apple",
+              "artist": "nomico",
+              "startOffset": 0,
+              "url": "https://api.pillowcases.top/api/download/906e3be3e3533b0f9420c68164ad67fb",
+              "songs": [177013]
+            },
+            "6f3e80d9-c3c2-572f-b235-bddc15ed1f8d": {
+              "name": "Paradise ~ Deep Mountain",
+              "artist": "ZUN",
+              "startOffset": 0,
+              "url": "https://api.pillowcases.top/api/download/e3079a23bb0a74fec6f01c516f005854",
+              "songs": [177014]
+            },
+            "29ca8725-802f-5388-82e3-0f216bc49616": {
+              "name": "Roundtable Rival",
+              "artist": "Lindsey Stirling",
+              "startOffset": 0,
+              "url": "https://api.pillowcases.top/api/download/4ecfee5c4c7b5bd85a3e7f00edae946c",
+              "songs": [177015]
+            },
+            "6f46ebe0-d610-5be9-b912-cd0d524f20b5": {
+              "name": "My sister is her - ! ! ! !",
+              "artist": "otokaz",
+              "startOffset": 0,
+              "url": "https://api.pillowcases.top/api/download/eb21fdc65e4f332682a63eeb6885b5bf",
+              "songs": [177016]
+            },
+            "daa79a76-8f2f-5546-b750-035457951efd": {
+              "name": "Into the night",
+              "artist": "maritumix",
+              "startOffset": 0,
+              "url": "https://api.pillowcases.top/api/download/f36c77c5ebe5db8c65834554f8075131",
+              "songs": [177017]
+            },
+            "731ef9ad-8d0f-5c70-bf84-bb043cc3c4a0": {
+              "name": "Catadioptric",
+              "artist": "Jerico",
+              "startOffset": 0,
+              "url": "https://api.pillowcases.top/api/download/f36c77c5ebe5db8c65834554f8075131",
+              "songs": [177018]
+            },
+            "296e31f2-1b75-5e09-90c7-7b8d0c9c541f": {
+              "name": "Brass Mood",
+              "artist": "MCE Music",
+              "startOffset": 0,
+              "url": "https://api.pillowcases.top/api/download/566a759646d4390e5cc5a9f698c5be15",
+              "songs": [177019]
+            },
+            "22f8e419-e1a4-5918-b3f5-cc32b82940db": {
+              "name": "Rush E",
+              "artist": "Sheet Music Boss",
+              "startOffset": 0,
+              "url": "https://api.pillowcases.top/api/download/fae664ab72c144fe01f5fbad32d96fb3",
+              "songs": [177020]
+            },
+            "586e15b3-7426-5898-9c25-91d623b5929d": {
+              "name": "Outstanding Orchestra",
+              "artist": "MCE Music",
+              "startOffset": 0,
+              "url": "https://api.pillowcases.top/api/download/13bc81b0711397c80d8474cc8487cf06",
+              "songs": [177021]
+            },
+            "63f66fc9-50bb-5a53-b915-8e4e486b8d65": {
+              "name": "Who Killed U.N.Owen",
+              "artist": "Liz Triangle",
+              "startOffset": 0,
+              "url": "https://api.pillowcases.top/api/download/f11deef5b94ac238b95d0c38bf1edc37",
+              "songs": [177022]
+            },
+            "949b3ca7-2d9f-558b-9248-1bf33443cff4": {
+              "name": "Love! Snow! Really Magic",
+              "artist": "Mitchie M",
+              "startOffset": 0,
+              "url": "https://api.pillowcases.top/api/download/ee4b39e68357519758f513fed6efe16f",
+              "songs": [177023]
+            },
+            "049f52ab-38c0-5bde-94e1-678e7f81c338": {
+              "name": "Who Killed U.N.Owen (Instrumental)",
+              "artist": "Liz Triangle",
+              "startOffset": 0,
+              "url": "https://api.pillowcases.top/api/download/45cb82eab7371e2ac5b8bb4e29b93914",
+              "songs": [177024]
+            },
+            "0b51f6b2-2021-5d94-a966-5ca5d9090ca0": {
+              "name": "We Don't Talk About Bruno",
+              "artist": "Carolina Gaitan",
+              "startOffset": 0,
+              "url": "https://api.pillowcases.top/api/download/2e8e20e8c39919987cd9fddb40d21a63",
+              "songs": [177025]
+            },
+            "b66b0213-7aca-5480-bd42-df435749ce2d": {
+              "name": "Gravity Falls Main Title Theme",
+              "artist": "Brad Breeck",
+              "startOffset": 0,
+              "url": "https://api.pillowcases.top/api/download/7eb3c1f67fe3b6f4689df365fc832d2d",
+              "songs": [177026]
+            },
+            "93ed1599-be00-5edc-b3c5-edb44df33467": {
+              "name": "Tomboyish Girl in Love",
+              "artist": "ZUN",
+              "startOffset": 0,
+              "url": "https://api.pillowcases.top/api/download/301ce3d6f98934a2cd73b03a100a5a6d",
+              "songs": [177027]
+            },
+            "f6c8eebe-626f-5347-bb21-b12d62aa07ca": {
+              "name": "INTERNET SURVIVOR",
+              "artist": "COOL&CREATE",
+              "startOffset": 0,
+              "url": "https://api.pillowcases.top/api/download/9a07f4c8f237c994ea25acdfcf6b8322",
+              "songs": [177028]
+            },
+            "e3eec2b3-5c26-5712-a577-bc4efb4aefed": {
+              "name": "All The Things She Said",
+              "artist": "t.A.T.u",
+              "startOffset": 0,
+              "url": "https://api.pillowcases.top/api/download/4f1a8ed4fdad8825e2afc741a5d77a02",
+              "songs": [177029]
+            },
+            "f6f71009-02b2-5ba3-b9ae-80593750206a": {
+              "name": "Moonlight shines",
+              "artist": "FELT",
+              "startOffset": 0,
+              "url": "https://api.pillowcases.top/api/download/13bf408adbb3d0982cbf77c9ed23f1a4",
+              "songs": [177030]
+            },
+            "5ac6f131-2cf0-5446-8c5d-cd3b4aa7d0d1": {
+              "name": "I Swallowed Shampoo",
+              "artist": "Soupy Garbage Juice",
+              "startOffset": 0,
+              "url": "https://api.pillowcases.top/api/download/c9eb62a0dd1a1aa767e6f73d09ab15a6",
+              "songs": [177031]
+            },
 
-]
+            "fbe03f15-a67a-5473-a2f0-1eaac6c954ba": {
+              "name": "Demons",
+              "artist": "Imagine Dragons",
+              "startOffset": 0,
+              "url": "https://api.pillowcases.top/api/download/2fc3b1833eaff5fcdb0ce3b019c2ca08",
+              "songs": [177034]
+            },
+            "fb0d0803-9361-50ad-9ea8-6faa524bebe8": {
+              "name": "Joe",
+              "artist": "AJR",
+              "startOffset": 0,
+              "url": "https://api.pillowcases.top/api/download/5fa8b1bed0468a2e3c77aaa84031c34e",
+              "songs": [177035]
+            },
+            "8142e791-4345-532c-bd52-99b136ac07de": {
+              "name": "River flows in you",
+              "artist": "Skullee",
+              "startOffset": 0,
+              "url": "https://api.pillowcases.top/api/download/4660e113f95de9b2334084dad6f64966",
+              "songs": [177036]
+            },
+            "98e29f32-63a4-5104-9ce9-a370a36b8aaf": {
+              "name": "Whatever It Takes",
+              "artist": "Imagine Dragons",
+              "startOffset": 0,
+              "url": "https://api.pillowcases.top/api/download/638d2ec950c34d327803bf4f627e3b88",
+              "songs": [177037]
+            },
+            "5269d1de-a7f3-55eb-b065-e051cf7e67f5": {
+              "name": "Counting Stars",
+              "artist": "OneRepublic",
+              "startOffset": 0,
+              "url": "https://api.pillowcases.top/api/download/e92ae1f39e93f5471067069e6e7ec6cb",
+              "songs": [177038]
+            },
+            "e0a63d22-05b9-5904-b7dc-95e98846c5af": {
+              "name": "Hymn for the Weekend",
+              "artist": "Coldplay",
+              "startOffset": 0,
+              "url": "https://api.pillowcases.top/api/download/69f2b83e3b73fdc451f6327b80bec80e",
+              "songs": [177039]
+            },
+            "8a968d02-9562-55e7-9911-8800e343aec0": {
+              "name": "dance in crazynight",
+              "artist": "maritumix",
+              "startOffset": 0,
+              "url": "https://api.pillowcases.top/api/download/b63beba091b4a5bf2d2518b996cac261",
+              "songs": [177040]
+            },
+            "f43f985a-c93a-5262-b492-43ecf0906a52": {
+              "name": "Bad Liar",
+              "artist": "Imagine Dragons",
+              "startOffset": 0,
+              "url": "https://api.pillowcases.top/api/download/9293117174a494cf4d265c336b514527",
+              "songs": [177041]
+            },
+            "3f62a79a-3a81-5a1f-8ba3-34df30d19616": {
+              "name": "Machine Love",
+              "artist": "Jamie Paige",
+              "startOffset": 0,
+              "url": "https://api.pillowcases.top/api/download/d1479ca5e3be96860603ace88f09c834",
+              "songs": [177042]
+            }
+        }
+    }
+}
