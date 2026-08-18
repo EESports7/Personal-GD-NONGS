@@ -3,7 +3,7 @@
   "name": "EESports's NONGs",
   "id": "eesports-nong",
   "description": "NONGs for levels by EESports",
-  "lastUpdate": 1786238692,
+  "lastUpdate": 1787023883,
   "links": {
     "discord": "https://discord.gg/9e43WMKzhp"
   },
@@ -72,11 +72,11 @@
         ],
         "verifiedLevelIDs": []
       },
-      "f7f166e1-c2f1-5718-bc02-0565df157d3a": {
+      "4bfe7f80-29af-536f-a768-29fc2f209eb1": {
         "name": "Catadioptric",
         "artist": "Jerico",
         "startOffset": 0,
-        "url": "https://pillows.su/f/b639c532f0b0713f4df46e7c2606111b",
+        "url": "https://api.pillows.su/api/download/b639c532f0b0713f4df46e7c2606111b",
         "songs": [
           177018
         ],
@@ -442,13 +442,23 @@
         ],
         "verifiedLevelIDs": []
       },
-      "3c7c685d-b848-5e97-8cb6-184895a8bc60": {
+      "dd4670b9-bd44-52de-aaca-477f02976898": {
         "name": "U.N. Owen Was Her",
         "artist": "ZUN",
         "startOffset": 2500,
-        "url": "https://pillows.su/f/2a91ab3ea6d5b428f34ddba3c6bef623",
+        "url": "https://api.pillows.su/api/download/2a91ab3ea6d5b428f34ddba3c6bef623",
         "songs": [
           111111
+        ],
+        "verifiedLevelIDs": []
+      },
+      "c73aed7a-2109-5d09-a428-f97f455a630d": {
+        "name": "The Big Goodbye",
+        "artist": "AJR",
+        "startOffset": 0,
+        "url": "https://api.pillows.su/api/download/5bc4a036767cec415d7f81757c6d4a37",
+        "songs": [
+          777790
         ],
         "verifiedLevelIDs": []
       }
